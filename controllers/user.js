@@ -1,5 +1,5 @@
 const bcrypt = require('bcrypt'); // package de chiffrement
-const User = require('../models/User'); // modele user
+const User = require('../models/user'); // modele user
 const jwt = require('jsonwebtoken'); // token generator package
 const emailValidator = require('email-validator');// email validator package
 const passwordValidator = require('password-validator'); // password validator package
