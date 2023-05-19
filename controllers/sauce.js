@@ -1,4 +1,4 @@
-const Sauce = require('../models/Sauce'); // import du modèle Sauce
+const Sauce = require('../models/sauce'); // import du modèle Sauce
 const fs = require('fs'); // file system, package qui permet de modifier et/ou supprimer des fichiers
 
 
